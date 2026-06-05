@@ -1,6 +1,5 @@
 # Neural Collapse in Deep Learning
 
----
 
 ## Overview
 
